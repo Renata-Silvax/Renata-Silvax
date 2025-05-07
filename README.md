@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">Sou apaixonada por tecnologia e por entender como as coisas funcionam por trás das interfaces. Gosto de explorar soluções criativas, encarar desafios com leveza e estou sempre em busca de melhorar minhas habilidades. Meu objetivo é atuar como desenvolvedora front-end e crescer profissionalmente contribuindo com projetos que impactem positivamente as pessoas.
+Ah, e uma curiosidade: tenho facilidade em analisar problemas com calma e encontrar soluções eficientes e criativas.</p>
 
 ###
 
