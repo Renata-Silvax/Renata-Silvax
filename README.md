@@ -15,7 +15,7 @@ Ah, e uma curiosidade: tenho facilidade em analisar problemas com calma e encont
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu codifico com</h2>
 
 ###
 
