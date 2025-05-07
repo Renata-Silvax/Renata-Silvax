@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de Técnico em Informática na EEEP Edson Queiroz | Aprendendo HTML, CSS e JavaScript | Interessada em front-end e em constante evolução.</p>
+<p align="left">🎓 Estudante Técnica em Informática na EEEP Edson Queiroz | Aprendendo HTML, CSS e JavaScript | Interessada em front-end e em constante evolução.</p>
 
 ###
 
